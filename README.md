@@ -37,7 +37,7 @@ The project proposes a data-driven **business strategy to boost local economy** 
 
 | 📍 Project Overview | 🧊 Monthly Sales Heatmap | 🏟️ Attendance per Quarter |
 |--------------------|--------------------------|----------------------------|
-| ![info](./assets/info.png) | ![heatmap](./assets/Monthly%20Sales...%20-%20Heatmap.png) | ![attendance](./assets/Quarterly%20Foo...%20and%20Quarter.png) |
+| ![info](./assets/info.png) | ![heatmap](./assets/Heatmap.png) | ![attendance](./assets/Data.png) |
 
 ---
 
