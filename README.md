@@ -37,7 +37,7 @@ The project proposes a data-driven **business strategy to boost local economy** 
 
 | 📍 Data Preprocessing | 🧊 Monthly Sales Heatmap | 🏟️ Attendance per Quarter |
 |--------------------|--------------------------|----------------------------|
-| ![Data Preprocessing](./assets/DataPreprocessing.png) | ![heatmap](./assets/Heatmap.png) | ![attendance](./assets/Data.png) |
+| ![Data Preprocessing](./assets/DataPreprocessing.png) | ![Heatmap](./assets/Heatmap.png) | ![attendance](./assets/Data.png) |
 
 ---
 
